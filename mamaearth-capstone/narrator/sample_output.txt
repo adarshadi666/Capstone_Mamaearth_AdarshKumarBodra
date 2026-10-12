@@ -1,0 +1,8 @@
+### Situation
+Mamaearth completed order reconciliation across the sales pipeline. Following the deduplication of 5 double-submitted orders, the verified cleaned total revenue stands at ₹97,358.30, resolving an initial raw variance of ₹2,501.90 driven entirely by duplicate rows.
+
+### Complication
+A blended return rate masks critical operational leakage. While electronic payments remain healthy (Card at 14.7% and UPI at 18.9%), Cash-on-Delivery (COD) orders suffer an alarming return rate of 44.4%. The single highest-risk segment is COD in Tier-2 cities, where the return rate peaks at 54.5%. Furthermore, top-line monthly figures were distorted: while 2026-01 initially appeared to lead at ₹29,582.10 due to bulk wholesale orders, March is the genuine retail peak month with ₹20,318.90 in normalized customer demand.
+
+### Resolution
+Regional operations and finance heads should immediately mandate automated phone confirmations or small upfront delivery deposits for COD orders originating from Tier-2 regions. In addition, demand planning must separate bulk corporate purchases from retail inventory to safeguard fulfillment margins.
